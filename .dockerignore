@@ -1,0 +1,10 @@
+docker-compose.yaml
+/venv
+nginx.conf
+.vscode/settings.json
+__pycache__
+/pcap
+*.pc
+.ci
+.git
+.vscode
